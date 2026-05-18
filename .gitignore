@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (Keeps your repo clean and lightweight)
+*.csv
+*.xlsx
+*.json
+
+# Virtual environments
+venv/
+env/
+ENV/
